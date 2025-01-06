@@ -1,0 +1,101 @@
+[
+  {
+    "action": "run",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Authenticate_user_with_qr_code_in_screen",
+    "elapsed": "0s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "pause",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Authenticate_user_with_qr_code_in_screen",
+    "elapsed": "0s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "run",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Deny_authentication_if_current_user_is_not_considered_as_root",
+    "elapsed": "0s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "pause",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Deny_authentication_if_current_user_is_not_considered_as_root",
+    "elapsed": "0s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "cont",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Deny_authentication_if_current_user_is_not_considered_as_root",
+    "elapsed": "0s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "cont",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Authenticate_user_with_qr_code_in_screen",
+    "elapsed": "0s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "pass",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Deny_authentication_if_current_user_is_not_considered_as_root",
+    "elapsed": "15.99s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "stdout",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Authenticate_user_with_qr_code_in_screen",
+    "elapsed": "0s",
+    "output": "PyAgPz8gICAgICAgID8/Pz8gICAgPz8gID8/Pz8/PyAgICAgICAgICAgICAgICA/Pz8/Pz8/Pz8/Pz9cbj8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/PyAgICA/Pz8/Pz8gICAgICA/PyAgICAgICAgPz8/Pz8/ICAgICAgICAgID8/Pz8/Pz8/XG4/Pz8/Pz8/PyAgICAgICAgICAgICAgPz8gID8/Pz8/PyAgICA/Pz8/ICA/PyAgICAgID8/ICA/PyAgICA/PyAgPz8/Pz8/Pz8/P1xuPz8/Pz8/Pz8gID8/Pz8/Pz8/Pz8gID8/ICA/Pz8/ICAgID8/Pz8/PyAgICA/Pz8/ICA/Pz8/Pz8gICAgPz8gID8/Pz8/Pz8/Pz9cbj8/Pz8/Pz8/ICA/PyAgICAgID8/ICA/Pz8/Pz8gICAgICA/PyAgICA/Pz8/Pz8/PyAgICAgICAgICA/PyAgICAgID8/Pz8/Pz8/XG4/Pz8/Pz8/PyAgPz8gICAgICA/PyAgPz8gICAgPz8/Pz8/Pz8gID8/ICAgID8/Pz8/PyAgPz8gICAgICA/PyAgPz8/Pz8/Pz8/P1xuPz8/Pz8/Pz8gID8/ICAgICAgPz8gID8/ICAgID8/ICA/Pz8/ICAgICAgPz8/PyAgPz8/Pz8/ICA/Pz8/ICA/PyAgPz8/Pz8/Pz9cbj8/Pz8/Pz8/ICA/Pz8/Pz8/Pz8/ICA/Pz8/ICAgID8/Pz8/PyAgPz8gID8/Pz8gICAgPz8gICAgICAgID8/ICA/Pz8/Pz8/Pz8/XG4/Pz8/Pz8/PyAgICAgICAgICAgICAgPz8gICAgPz8gICAgPz8gICAgICAgID8/ICAgICAgICA/Pz8/ICA/PyAgPz8/Pz8/Pz8/P1xuPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz9cbj8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/XG4/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/P1xuPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz9cbiAgICAgICAgICAgICAgICAgICAgICAgaHR0cHM6Ly91YnVudHVmb3J1bS1ici5vcmcvIA==",
+    "cached": false,
+    "coverage": null,
+    "json": true
+  },
+  {
+    "action": "pass",
+    "package": "github.com/ubuntu/authd/pam/integration-tests",
+    "version": "",
+    "test": "TestNativeAuthenticate/Authenticate_user_with_qr_code_in_screen",
+    "elapsed": "51.42s",
+    "output": null,
+    "cached": false,
+    "coverage": null,
+    "json": true
+  }
+]
